@@ -26,3 +26,22 @@ Imprima uma linha contendo um inteiro, indicando o número de posições possív
 |--|--|
 | FDMLCRDMRALF  ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤARMADA | 2 |
 | AAAAABABABABABABABABA  ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤABA | 7 |
+
+## 🌐 Avaliação e Autores
+
+| Autores:            |
+| :------------------ |
+| Enzo G Mendes       |
+| Charles M Junior    |
+| João Victor H Palma |
+| Daniel A França     |
+
+ㅤ
+
+| Professor  | Ciro Cirne Trindade                   |
+| :--------- | :------------------------------------ |
+| Disciplina | Linguagem de Programação              |
+| Curso      | Análise e Desenvolvimento de Sistemas |
+
+
+    O professor deixou a correção em forma de comentários no código fonte.
