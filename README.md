@@ -1,5 +1,5 @@
 
-<h1 align="center"><img src="https://raw.githubusercontent.com/abrahamcalf/programming-languages-logos/master/src/c/c_256x256.png" alt="drawing" width="200"/> <br> 1º Trabalho Prático – Enigma  
+<h1 align="center"><img src="https://raw.githubusercontent.com/abrahamcalf/programming-languages-logos/master/src/c/c_256x256.png" alt="drawing" width="200"/> <br> 1º Trabalho Prático – Enigma (2°Semestre de 2021)
 </h1>
 
 
@@ -36,7 +36,7 @@ Imprima uma linha contendo um inteiro, indicando o número de posições possív
 | João Victor H Palma |
 | Daniel A França     |
 
-ㅤ
+    O professor deixou a correção em forma de comentários no código fonte.
 
 | Professor  | Ciro Cirne Trindade                   |
 | :--------- | :------------------------------------ |
@@ -44,4 +44,4 @@ Imprima uma linha contendo um inteiro, indicando o número de posições possív
 | Curso      | Análise e Desenvolvimento de Sistemas |
 
 
-    O professor deixou a correção em forma de comentários no código fonte.
+
