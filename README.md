@@ -25,7 +25,7 @@ Imprima uma linha contendo um inteiro, indicando o número de posições possív
 | 	Entrada	 | Saída |
 |--|--|
 | FDMLCRDMRALF  ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤARMADA | 2 |
-| AAAAABABABABABABABABA  ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤABA | 7 |
+| AAAAABABABABABABABABA  ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤABA | 7 |
 
 ## 🌐 Avaliação e Autores
 
