@@ -25,4 +25,4 @@ Imprima uma linha contendo um inteiro, indicando o número de posições possív
 | 	Entrada	 | Saída |
 |--|--|
 | FDMLCRDMRALF  ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤARMADA | 2 |
-| AAAAABABABABABABABABA  ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ABA | 7 |
+| AAAAABABABABABABABABA  ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ  ABA | 7 |
