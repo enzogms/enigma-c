@@ -22,3 +22,7 @@ Imprima uma linha contendo um inteiro, indicando o número de posições possív
 
 **Exemplo**:
 
+| 	Entrada	 | Saída |
+|--|--|
+| FDMLCRDMRALF  ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤARMADA | 2 |
+| AAAAABABABABABABABABA  ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤABA | 7 |
